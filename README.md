@@ -1,11 +1,11 @@
-# MERN Skeleton
+# MERN Template
 
-### [Live Demo](http://skeleton.mernbook.com/ "MERN Skeleton")
 
-#### What you need to run this code
-1. Node (8.11.1)
-2. NPM (5.8.0)
-3. MongoDB (3.6.3)
+
+#### What can be found:
+1. Home, sign-up, sign-in profile and edit profile pages.
+2. React Router
+3. Upload a picture as profile picture
 
 ####  How to run this code
 1. Clone this repository
